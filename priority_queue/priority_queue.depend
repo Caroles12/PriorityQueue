@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\carol\desktop\faculdade\programaçao\priority queue\priority_queue\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1561237511 source:c:\users\carol\desktop\faculdade\programaçao\priority queue\priority_queue\dados_paciente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dados_paciente.h"
+
+1561237474 c:\users\carol\desktop\faculdade\programaçao\priority queue\priority_queue\dados_paciente.h
+
