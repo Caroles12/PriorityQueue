@@ -106,14 +106,14 @@ dado_t **ler_arquivo(char *nome_do_arquivo, int *tamanho){
 
 
 
-void *obter_dado_nome (dado_t *dado)
-{
-    if (dado == NULL) {
-        fprintf(stderr,"liga_nos: ponteiros invalidos");
-        exit(EXIT_FAILURE);
+int obtem_prioridade(dado_t* paciente1, dado_t* paciente2){
+     if(paciente1->prioridade > paciente2->prioridade){
+        return 1;
+     }
+    else{
+        return 0;
     }
 
-    return dado->nome;
 }
 
 
