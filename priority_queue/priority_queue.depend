@@ -1,13 +1,43 @@
 # depslib dependency file v1.0
-1514140574 source:c:\users\carol\desktop\faculdade\programaçao\priority queue\priority_queue\main.c
+1561738329 source:c:\users\carol\desktop\faculdade\programaçao\priority queue\priority_queue\main.c
 	<stdio.h>
 	<stdlib.h>
+	"filaprioridade.h"
+	"dados_paciente.h"
 
-1561237511 source:c:\users\carol\desktop\faculdade\programaçao\priority queue\priority_queue\dados_paciente.c
+1561738447 source:c:\users\carol\desktop\faculdade\programaçao\priority queue\priority_queue\dados_paciente.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
 	"dados_paciente.h"
+	"filaprioridade.h"
 
-1561237474 c:\users\carol\desktop\faculdade\programaçao\priority queue\priority_queue\dados_paciente.h
+1561738329 c:\users\carol\desktop\faculdade\programaçao\priority queue\priority_queue\dados_paciente.h
+
+1561471741 source:c:\users\carol\desktop\faculdade\programaçao\priority queue\priority_queue\filaprioridade.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"filaprioridade.h"
+	"dados_paciente.h"
+
+1561738329 c:\users\carol\desktop\faculdade\programaçao\priority queue\priority_queue\filaprioridade.h
+	"dados_paciente.h"
+
+1561740007 source:c:\users\carol\desktop\faculdade\programacao\priority queue\priority_queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"filaprioridade.h"
+	"dados_paciente.h"
+
+1561738329 c:\users\carol\desktop\faculdade\programacao\priority queue\priority_queue\filaprioridade.h
+	"dados_paciente.h"
+
+1561740852 c:\users\carol\desktop\faculdade\programacao\priority queue\priority_queue\dados_paciente.h
+
+1561740344 source:c:\users\carol\desktop\faculdade\programacao\priority queue\priority_queue\filaprioridade.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"filaprioridade.h"
 
