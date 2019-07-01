@@ -173,3 +173,31 @@
 1561844896 c:\users\elvis\desktop\setores\eng eletronica\programação de computadores 2 2019\trabalho final prog2\priorityqueue\priority_queue_libera_dados_carol_elvis\filaprioridade.h
 	"dados_paciente.h"
 
+1562019369 source:c:\users\elvis\desktop\setores\eng eletronica\programação de computadores 2 2019\trabalho final prog2\priorityqueue\priority_queue_libera_dados_carol_elvisv2\dados_paciente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dados_paciente.h"
+
+1562018728 c:\users\elvis\desktop\setores\eng eletronica\programação de computadores 2 2019\trabalho final prog2\priorityqueue\priority_queue_libera_dados_carol_elvisv2\dados_paciente.h
+
+1562021717 source:c:\users\elvis\desktop\setores\eng eletronica\programação de computadores 2 2019\trabalho final prog2\priorityqueue\priority_queue_libera_dados_carol_elvisv2\heap.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dados_paciente.h"
+	"heap.h"
+
+1561996216 c:\users\elvis\desktop\setores\eng eletronica\programação de computadores 2 2019\trabalho final prog2\priorityqueue\priority_queue_libera_dados_carol_elvisv2\heap.h
+	"dados_paciente.h"
+
+1562017645 source:c:\users\elvis\desktop\setores\eng eletronica\programação de computadores 2 2019\trabalho final prog2\priorityqueue\priority_queue_libera_dados_carol_elvisv2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"filaprioridade.h"
+	"dados_paciente.h"
+	"heap.h"
+
+1561844896 c:\users\elvis\desktop\setores\eng eletronica\programação de computadores 2 2019\trabalho final prog2\priorityqueue\priority_queue_libera_dados_carol_elvisv2\filaprioridade.h
+	"dados_paciente.h"
+
