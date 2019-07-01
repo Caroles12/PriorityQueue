@@ -76,3 +76,38 @@
 	"dados_paciente.h"
 	"heap.h"
 
+1561927293 source:c:\users\elvis\desktop\setores\eng eletronica\programação de computadores 2 2019\trabalho final prog2\priorityqueue\priority_queue_elvis\dados_paciente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dados_paciente.h"
+	"filaprioridade.h"
+
+1561923711 c:\users\elvis\desktop\setores\eng eletronica\programação de computadores 2 2019\trabalho final prog2\priorityqueue\priority_queue_elvis\dados_paciente.h
+
+1561844896 c:\users\elvis\desktop\setores\eng eletronica\programação de computadores 2 2019\trabalho final prog2\priorityqueue\priority_queue_elvis\filaprioridade.h
+	"dados_paciente.h"
+
+1561844896 source:c:\users\elvis\desktop\setores\eng eletronica\programação de computadores 2 2019\trabalho final prog2\priorityqueue\priority_queue_elvis\filaprioridade.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"filaprioridade.h"
+
+1561928300 source:c:\users\elvis\desktop\setores\eng eletronica\programação de computadores 2 2019\trabalho final prog2\priorityqueue\priority_queue_elvis\heap.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dados_paciente.h"
+	"heap.h"
+
+1561925725 c:\users\elvis\desktop\setores\eng eletronica\programação de computadores 2 2019\trabalho final prog2\priorityqueue\priority_queue_elvis\heap.h
+	"dados_paciente.h"
+
+1561927611 source:c:\users\elvis\desktop\setores\eng eletronica\programação de computadores 2 2019\trabalho final prog2\priorityqueue\priority_queue_elvis\main.c
+	<stdio.h>
+	<stdlib.h>
+	"filaprioridade.h"
+	"dados_paciente.h"
+	"heap.h"
+
