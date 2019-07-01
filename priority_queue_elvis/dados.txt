@@ -1,0 +1,4 @@
+Daniel;10
+
+Juca;30
+Leandro;17
