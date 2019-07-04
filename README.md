@@ -1,8 +1,8 @@
 # PriorityQu
-eue
-Esse software é um algoritmo de Ordenação Heap que faz a leitura de dados a partir de um arquivo de texto, cujos parâmetros são “Nome do paciente” ; “Idade” e pode atender pacientes que estão em filas de espera para transplantes de órgãos.  As prioridades sáo ordenadas conforme a idade do paciente, ou seja, quanto menor a idade maior será a prioridade do paciente.
-Futuras implementações:
-Randomizar os dados dentro do arquivo;
-Adicionar dados pacientes: (Sexo, Órgão, Tipo Sanguíneo);
-Adicionar função de escrita na base de dados;
 
+This software is a Heap Sort algorithm that reads data from a text file, whose parameters are "Patient Name"; "Age". This code can serve patients who are waiting for organ transplants. Priorities are ranked according to the patient's age, that is, the lower the age the higher the priority of the patient.
+
+Future implementations:
+Randomize the data within the file;
+Add patient data: (Sex, Organ, Blood Type);
+Add writing function to the database;
