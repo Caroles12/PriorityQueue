@@ -1,0 +1,260 @@
+# depslib dependency file v1.0
+1561738329 source:c:\users\carol\desktop\faculdade\programaçao\priority queue\priority_queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"filaprioridade.h"
+	"dados_paciente.h"
+
+1561738447 source:c:\users\carol\desktop\faculdade\programaçao\priority queue\priority_queue\dados_paciente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dados_paciente.h"
+	"filaprioridade.h"
+
+1561738329 c:\users\carol\desktop\faculdade\programaçao\priority queue\priority_queue\dados_paciente.h
+
+1561471741 source:c:\users\carol\desktop\faculdade\programaçao\priority queue\priority_queue\filaprioridade.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"filaprioridade.h"
+	"dados_paciente.h"
+
+1561738329 c:\users\carol\desktop\faculdade\programaçao\priority queue\priority_queue\filaprioridade.h
+	"dados_paciente.h"
+
+1561740007 source:c:\users\carol\desktop\faculdade\programacao\priority queue\priority_queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"filaprioridade.h"
+	"dados_paciente.h"
+
+1561738329 c:\users\carol\desktop\faculdade\programacao\priority queue\priority_queue\filaprioridade.h
+	"dados_paciente.h"
+
+1561740852 c:\users\carol\desktop\faculdade\programacao\priority queue\priority_queue\dados_paciente.h
+
+1561740344 source:c:\users\carol\desktop\faculdade\programacao\priority queue\priority_queue\filaprioridade.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"filaprioridade.h"
+
+1561927293 source:c:\users\elvis\desktop\priorityqueue-carol\priority_queue\dados_paciente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dados_paciente.h"
+	"filaprioridade.h"
+
+1561923711 c:\users\elvis\desktop\priorityqueue-carol\priority_queue\dados_paciente.h
+
+1561844896 c:\users\elvis\desktop\priorityqueue-carol\priority_queue\filaprioridade.h
+	"dados_paciente.h"
+
+1561844896 source:c:\users\elvis\desktop\priorityqueue-carol\priority_queue\filaprioridade.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"filaprioridade.h"
+
+1561927611 source:c:\users\elvis\desktop\priorityqueue-carol\priority_queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"filaprioridade.h"
+	"dados_paciente.h"
+	"heap.h"
+
+1561925725 c:\users\elvis\desktop\priorityqueue-carol\priority_queue\heap.h
+	"dados_paciente.h"
+
+1561928300 source:c:\users\elvis\desktop\priorityqueue-carol\priority_queue\heap.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dados_paciente.h"
+	"heap.h"
+
+1561996002 source:c:\users\carol\onedrive\imagens\priority_queue\dados_paciente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dados_paciente.h"
+	"filaprioridade.h"
+
+1561923711 c:\users\carol\onedrive\imagens\priority_queue\dados_paciente.h
+
+1561844896 c:\users\carol\onedrive\imagens\priority_queue\filaprioridade.h
+	"dados_paciente.h"
+
+1561844896 source:c:\users\carol\onedrive\imagens\priority_queue\filaprioridade.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"filaprioridade.h"
+
+1561996263 source:c:\users\carol\onedrive\imagens\priority_queue\heap.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dados_paciente.h"
+	"heap.h"
+
+1561996215 c:\users\carol\onedrive\imagens\priority_queue\heap.h
+	"dados_paciente.h"
+
+1561995394 source:c:\users\carol\onedrive\imagens\priority_queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"filaprioridade.h"
+	"dados_paciente.h"
+	"heap.h"
+
+1561844896 source:c:\users\carol\desktop\faculdade\programacao\trab_fila\priorityqueue\priority_queue2\filaprioridade.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"filaprioridade.h"
+
+1561844896 c:\users\carol\desktop\faculdade\programacao\trab_fila\priorityqueue\priority_queue2\filaprioridade.h
+	"dados_paciente.h"
+
+1562012165 c:\users\carol\desktop\faculdade\programacao\trab_fila\priorityqueue\priority_queue2\dados_paciente.h
+
+1562012534 source:c:\users\carol\desktop\faculdade\programacao\trab_fila\priorityqueue\priority_queue2\heap.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dados_paciente.h"
+	"heap.h"
+
+1561996215 c:\users\carol\desktop\faculdade\programacao\trab_fila\priorityqueue\priority_queue2\heap.h
+	"dados_paciente.h"
+
+1562013414 source:c:\users\carol\desktop\faculdade\programacao\trab_fila\priorityqueue\priority_queue2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"filaprioridade.h"
+	"dados_paciente.h"
+	"heap.h"
+
+1562013698 source:c:\users\carol\desktop\faculdade\programacao\trab_fila\priorityqueue\priority_queue2\dados_paciente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dados_paciente.h"
+
+1562019369 source:c:\users\elvis\desktop\setores\eng eletronica\programação de computadores 2 2019\trabalho final prog2\priorityqueue\priority_queue_libera_dados_carol_elvis\dados_paciente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dados_paciente.h"
+
+1562018728 c:\users\elvis\desktop\setores\eng eletronica\programação de computadores 2 2019\trabalho final prog2\priorityqueue\priority_queue_libera_dados_carol_elvis\dados_paciente.h
+
+1562021717 source:c:\users\elvis\desktop\setores\eng eletronica\programação de computadores 2 2019\trabalho final prog2\priorityqueue\priority_queue_libera_dados_carol_elvis\heap.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dados_paciente.h"
+	"heap.h"
+
+1561996216 c:\users\elvis\desktop\setores\eng eletronica\programação de computadores 2 2019\trabalho final prog2\priorityqueue\priority_queue_libera_dados_carol_elvis\heap.h
+	"dados_paciente.h"
+
+1562017645 source:c:\users\elvis\desktop\setores\eng eletronica\programação de computadores 2 2019\trabalho final prog2\priorityqueue\priority_queue_libera_dados_carol_elvis\main.c
+	<stdio.h>
+	<stdlib.h>
+	"filaprioridade.h"
+	"dados_paciente.h"
+	"heap.h"
+
+1561844896 c:\users\elvis\desktop\setores\eng eletronica\programação de computadores 2 2019\trabalho final prog2\priorityqueue\priority_queue_libera_dados_carol_elvis\filaprioridade.h
+	"dados_paciente.h"
+
+1562019369 source:c:\users\elvis\desktop\setores\eng eletronica\programação de computadores 2 2019\trabalho final prog2\priorityqueue\priority_queue_libera_dados_carol_elvisv2\dados_paciente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dados_paciente.h"
+
+1562018728 c:\users\elvis\desktop\setores\eng eletronica\programação de computadores 2 2019\trabalho final prog2\priorityqueue\priority_queue_libera_dados_carol_elvisv2\dados_paciente.h
+
+1562021717 source:c:\users\elvis\desktop\setores\eng eletronica\programação de computadores 2 2019\trabalho final prog2\priorityqueue\priority_queue_libera_dados_carol_elvisv2\heap.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dados_paciente.h"
+	"heap.h"
+
+1561996216 c:\users\elvis\desktop\setores\eng eletronica\programação de computadores 2 2019\trabalho final prog2\priorityqueue\priority_queue_libera_dados_carol_elvisv2\heap.h
+	"dados_paciente.h"
+
+1562017645 source:c:\users\elvis\desktop\setores\eng eletronica\programação de computadores 2 2019\trabalho final prog2\priorityqueue\priority_queue_libera_dados_carol_elvisv2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"filaprioridade.h"
+	"dados_paciente.h"
+	"heap.h"
+
+1561844896 c:\users\elvis\desktop\setores\eng eletronica\programação de computadores 2 2019\trabalho final prog2\priorityqueue\priority_queue_libera_dados_carol_elvisv2\filaprioridade.h
+	"dados_paciente.h"
+
+1562287351 source:c:\users\danie\desktop\priorityqueue-elvis\priority_queue_libera_dados_carol_elvisv2\dados_paciente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dados_paciente.h"
+
+1562008876 c:\users\danie\desktop\priorityqueue-elvis\priority_queue_libera_dados_carol_elvisv2\dados_paciente.h
+
+1562286785 source:c:\users\danie\desktop\priorityqueue-elvis\priority_queue_libera_dados_carol_elvisv2\heap.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dados_paciente.h"
+	"heap.h"
+
+1562008876 c:\users\danie\desktop\priorityqueue-elvis\priority_queue_libera_dados_carol_elvisv2\heap.h
+	"dados_paciente.h"
+
+1562291508 source:c:\users\danie\desktop\priorityqueue-elvis\priority_queue_libera_dados_carol_elvisv2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"filaprioridade.h"
+	"dados_paciente.h"
+	"heap.h"
+
+1562008876 c:\users\danie\desktop\priorityqueue-elvis\priority_queue_libera_dados_carol_elvisv2\filaprioridade.h
+	"dados_paciente.h"
+
+1562293855 source:c:\users\carol\desktop\faculdade\programacao\amote\priority\dados_paciente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dados_paciente.h"
+
+1562293855 c:\users\carol\desktop\faculdade\programacao\amote\priority\dados_paciente.h
+
+1562294356 source:c:\users\carol\desktop\faculdade\programacao\amote\priority\heap.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dados_paciente.h"
+	"heap.h"
+
+1562293855 c:\users\carol\desktop\faculdade\programacao\amote\priority\heap.h
+	"dados_paciente.h"
+
+1562294356 source:c:\users\carol\desktop\faculdade\programacao\amote\priority\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"filaprioridade.h"
+	"dados_paciente.h"
+	"heap.h"
+
+1562008876 c:\users\carol\desktop\faculdade\programacao\amote\priority\filaprioridade.h
+	"dados_paciente.h"
+
