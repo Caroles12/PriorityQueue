@@ -6,6 +6,8 @@ Instalação: Faça o download deste projeto e abra o documento que está no for
 Construído com: CodeBlocks
 Obs: A base de dados do paciente pode ser mudada da forma como o usuário desejar, recomenda-se o uso do ".txt", pois arquivos ".csv" podem apresentar problemas no windows. 
 
+Autores: Carolina de Farias e Elvis Fernando.
+
 Agradecimentos: Ao professor Renan Starke pela paciência infinita, ajuda no desenvolvimento do projeto e a transmissão de conhecimento durante o semestre visando a evolução dos alunos e ao stack overflow por salvar o mundo dos ponteiros duplos. 
 
 
